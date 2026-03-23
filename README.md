@@ -4,7 +4,7 @@ Small Factorio mod that kickstart the game by auto research some technologies an
 
 ## Usage
 
-Once new game is started open the console (press ```) and type `/kickstart`. Once the command is complete your inventory will  be populated with items and some technologies will be researched.
+Once new game is started open the console (press `` ` ``) and type `/kickstart`. Once the command is complete your inventory will  be populated with items and some technologies will be researched.
 
 ## List of items and technologies
 

@@ -1,0 +1,11 @@
+{
+    "name": "kickstart",
+    "version": "0.0.1",
+    "title": "Skip the early game",
+    "author": "countnazgul",
+    "factorio_version": "2.0",
+    "contact": "@countnazgul",
+    "dependencies": ["space-age", "quality"],
+    "quality_required": true,
+    "description": "Start with some technology unlocked and some items in your inventory"
+}

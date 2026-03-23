@@ -4,7 +4,7 @@ Small Factorio mod that kickstart the game by auto research some technologies an
 
 ## Usage
 
-Once new game is started open the console (press `` ` ``) and type `/kickstart`. Once the command is complete your inventory will  be populated with items and some technologies will be researched.
+Once new game is started open the console (press `` ` ``) and type `/kickstart`. Once the command is complete your inventory will be populated with items and some technologies will be researched.
 
 ## List of items and technologies
 
@@ -37,49 +37,52 @@ The following technologies will be researched:
 
 Items created in inventory:
 
-- Iron plate (300)
-- Copper plate (200)
-- Electronic circuit (400)
-- Advanced circuit (200)
-- Iron gear wheel (200)
-- Burner inserter (50)
-- Inserter (50)
-- Fast inserter (50)
-- Long handed inserter (50)
-- Transport belt (50)
-- Underground belt (50)
-- Splitter (50)
-- Small electric pole (50)
-- Medium electric pole (50)
-- Big electric pole (50)
-- Electric mining drill (50)
-- Burner mining drill (49 + 1)
-- Stone furnace (49 + 1)
-- Steel furnace (50)
-- Assembling machine 1 (50)
-- Pipe (100)
-- Pipe to ground (50)
-- Steel chest (50)
-- Boiler (20)
-- Steam engine (20)
-- Offshore pump (20)
-- Lab (10)
-- Train stop (10)
-- Rail (500)
-- Locomotive (5)
-- Cargo wagon (10)
-- Rail signal (50)
-- Rail chain signal (50)
-- Solar panel (50)
-- Small lamp (50)
-- Repair pack (20)
-- Car (1)
-- Modular armor (1)
-- Personal solar panel (5)
-- Personal battery MK3 (2)
-- Exoskeleton (2)
-- Night vision (1)
-- Belt immunity (1)
+
+| Item  | Quantity  |
+|---|---|
+| Assembling machine 1  | 50  |
+| Belt (Transport)  | 50  |
+| Belt (Underground)  | 50  |
+| Belt immunity  | 50  |
+| Boiler  | 20  |
+| Car  | 1  |
+| Cargo wagon  | 10  |
+| Circuit (Advanced)  | 200  |
+| Circuit (Electronic)  | 400  |
+| Copper plate  | 200  |
+| Electric pole (Big) | 50  |
+| Electric pole (Medium)  | 50  |
+| Electric pole (Small) | 50  |
+| Exoskeleton  | 2  |
+| Furnace (Steel)  | 50  |
+| Furnace (Stone)  | 50  |
+| Inserter  | 50  |
+| Inserter (Burner)  | 50  |
+| Inserter (Fast)  | 50  |
+| Inserter (Long hand)  | 50  |
+| Iron gear wheel  | 200  |
+| Iron plate  | 300  |
+| Lab  | 10  |
+| Locomotive  | 5  |
+| Mining drill (Burner)  | 50  |
+| Mining drill (Electric) | 50  |
+| Modular armor  | 1  |
+| Night vision  | 1  |
+| Offshore pump  | 20  |
+| Personal battery MK3  | 2  |
+| Personal solar panel  | 5  |
+| Pipe  | 100  |
+| Pipe to ground  | 50  |
+| Rail  | 500  |
+| Rail chain signal  | 50  |
+| Rail signal  | 50  |
+| Repair pack  | 20  |
+| Solar panel  | 50  |
+| Small lamp  | 50  |
+| Splitter  | 50  |
+| Steam engine  | 20  |
+| Steel chest  | 50  |
+| Train stop | 10  |
 
 ## Mod the mod
 
